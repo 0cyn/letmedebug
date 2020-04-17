@@ -1,0 +1,12 @@
+# ninja log v5
+0	150	1587127625118809750	.dragon/build/logos/Tweak.xm.mm	3b099f339290d62f
+150	907	1587127625870114686	.dragon/build/armv7/Tweak.xm.mm.o	c65e913371b99211
+151	908	1587127625870131466	.dragon/build/arm64/Tweak.xm.mm.o	ff55fa3dbb3ede39
+151	912	1587127625876732582	.dragon/build/arm64e/Tweak.xm.mm.o	497807a9a648f979
+908	1119	1587127626083518506	.dragon/build/LetMeDebug.arm64	e0e8165217cd63ff
+912	1119	1587127626083569545	.dragon/build/LetMeDebug.arm64e	f41d24fe42e21217
+908	1120	1587127626083534508	.dragon/build/LetMeDebug.armv7	e84f6ea05beae8fd
+1120	1139	1587127626108491731	.dragon/sign/.dragon/_/Library/MobileSubstrate/DynamicLibraries/LetMeDebug.dylib.unsym	98cc6e26f9902512
+1139	1188	1587127626157308652	.dragon/sign/.dragon/_/Library/MobileSubstrate/DynamicLibraries/LetMeDebug.dylib.unsigned	6b2fbab3da282025
+1188	1203	1587127626173203625	.dragon/_/Library/MobileSubstrate/DynamicLibraries/LetMeDebug.dylib	b66cbd4eff497022
+1203	1210	0	.dragon/build/trash/stage	724770b4472c0f53

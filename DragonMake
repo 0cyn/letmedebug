@@ -1,0 +1,8 @@
+---
+package_name: letmedebug
+install_command: sbreload
+
+LetMeDebug:
+    type: tweak
+    logos_files:
+      - Tweak.xm
